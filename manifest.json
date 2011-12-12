@@ -1,0 +1,14 @@
+{
+    "BundleType": "Application",
+    "AppIcon": {
+        "36x18": "tutorial.png"
+    },
+    "AppName": {
+        "en": "Spotflick"
+    },
+    "SupportedLanguages": [
+        "en"
+    ],"RequiredPermissions": [
+		        "http://api.flickr.com","http://farm1.staticflickr.com","http://farm2.staticflickr.com","http://farm3.staticflickr.com","http://farm4.staticflickr.com","http://farm5.staticflickr.com","http://farm6.staticflickr.com","http://farm7.staticflickr.com","http://farm8.staticflickr.com","http://farm9.staticflickr.com","http://farm10.staticflickr.com"
+		    ]
+}
