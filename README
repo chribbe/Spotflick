@@ -1,2 +1,14 @@
 Spotflick 
-@Christian √ñstman 2011
+
+To test the app in Spotify:
+
+1. put the files in a folder and name it "spotflick"
+
+2. place the folder inside the “Spotify” folder in your home folder (or “My Documents” in Windows). Launch Spotify, type spotify:app:$spotflick in the search bar and Spotify will load the application, offering to pin it to the sidebar for easy access later.
+
+
+
+
+@ Christian Östman 2011
+christian.ostman@gmail.com
+
