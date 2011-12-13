@@ -1,7 +1,6 @@
 
 function init() {
 	$("#info").hide();
-    console.log(sp.core.player);
 	   updatePageWithTrackDetails();
 
 	    sp.trackPlayer.addEventListener("playerStateChanged", function (event) {
